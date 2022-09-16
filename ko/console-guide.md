@@ -1,9 +1,9 @@
-# Network > Colocation Gateway > 콘솔 사용 가이드
+# Network > Direct Connect > 콘솔 사용 가이드
 
 콘솔에서 Direct Connect 서비스를 사용하는 방법을 설명합니다.
 
 ## 다이렉트 커넥트
-**Cloud Connect를 사용하여 고객 자원과 연결하기**
+**Direct Connect를 사용하여 고객 자원과 연결하기**
 
 ### STEP 1. 서비스 이용 신청
 1.	Network> Direct Connect로 이동합니다.
