@@ -1,4 +1,4 @@
-# Network > Direct Connect > 개요
+## Network > Direct Connect > 개요
 
 Direct Connect 서비스는 NHN Cloud의 IaaS 자원과 외부 네트워크(ex. 고객사 On-premise) 구간을 통신사에서 제공하는 전용 회선으로 연결하기 위한 접점입니다. 전용 회선을 이용하면 보다 안정적인 속도를 유지하고 외부 보안에도 안전한 통신을 이용할 수 있습니다.
 
@@ -13,8 +13,9 @@ Direct Connect는 다음과 같은 다양한 기능을 제공합니다.
 
 ## 구성 환경 
 Direct Connect가 지원하는 클라우드 구성 환경은 다음과 같습니다.
+
 | 항목지원 | 사양 |
-| -- | -- |
+| --- | --- |
 | 리전 | 한국리전(판교, 평촌) |
 | 대역폭 | 10Mbps - 10Gbps |
 | 회선 타입 | Ethernet 방식 |
