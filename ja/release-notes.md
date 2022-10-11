@@ -1,7 +1,7 @@
-## Network > Direct Connect > 릴리스 노트
+## Network > Direct Connect > リリースノート
 
 
 ### 2022.09.30.
 
-#### 신규 서비스 출시
-* Direct Connect 서비스는 NHN Cloud의 IaaS 자원과 외부 네트워크(ex. 고객사 On-premise) 구간을 통신사에서 제공하는 전용 회선으로 연결하기 위한 접점입니다.
+#### 新規サービスリリース
+* Direct ConnectサービスはNHN CloudのIaaSリソースと外部ネットワーク(例：顧客社オンプレミス)区間をサービスプロバイダーから提供する専用回線に接続するための接点です。
