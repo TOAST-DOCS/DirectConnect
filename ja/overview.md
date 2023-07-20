@@ -20,9 +20,9 @@ Direct Connectがサポートするクラウド構成環境は次のとおりで
 | 帯域幅 | 10Mbps～10Gbps |
 | 回線タイプ | イーサネット(Ethernet)方式 |
 | 通信方式 | L2(Vlan)、L3(BGP、Static、IPsec) |
-| 接続方式1 | 専用接続 - 回線事業者を通じた専用回線接続方式<br>- KT、LG U+、SKブロードバンド、ドリームライン、世宗テレコムから選択可能(NHN Cloudで回線契約および開通を行う)|
-| 接続方式2 | ホスティング接続 - N/Wパートナーを通じたクラウドプラットフォーム接続方式<br>- KINXクラウドハブ(https://www.kinx.net/service/cloudhub/)<br>- LG U+ クラウドマルチコネクト(https://www.lguplus.com/biz/all/telecom/idc/cloud-connection-service/B000000036)<br>- ドリームラインクラウドエクスチェンジプラットフォーム(https://www.dreamline.co.kr/service/cloud_overview.php)|
+| 接続方式1 | 専用接続 - 専用回線事業者 |
+| 接続方式2 | ホスティング接続 - 提供パートナー(LGU、KINX) |
 
-> [参考] *専用接続はNHN Cloud位置内のDirect connectネットワークポートおよびユーザーのネットワークポート間の物理的接続です。NHN Cloudで顧客が希望する回線事業者の専用線を確保して提供します。
+> [参考] *専用接続はNHN Cloud位置内のDirect connectネットワークポートおよびユーザーのネットワークポート間の物理的接続です。顧客が好む通信事業者の回線を直接連動できます。
 
-> [参考] **ホスティング接続は、Direct Connect提供パートナーのネットワーク環境を介してプロビジョニングする論理的(VLAN)接続です。顧客が直接N/Wパートナーのクラウドプラットフォームを申請できます。
+> [参考] **ホスティング接続は、Direct Connect提供パートナーのネットワーク環境を介してプロビジョニングする論理的(VLAN)接続です。ホスティング接続を使用する場合、パートナーポートの1つを使用してNHN Cloudネットワークに接続します。
