@@ -21,7 +21,7 @@ Direct Connect가 지원하는 클라우드 구성 환경은 다음과 같습니
 | 회선 타입 | 이더넷(Ethernet) 방식 |
 | 통신 방식 | L2(Vlan), L3(BGP, Static, IPsec) |
 | 연결 방식 1 | 전용 연결 - 회선 사업자를 통한 전용 회선 연결 방식<br>- KT, LG U+, SK브로드밴드, 드림라인, 세종텔레콤 중 선택 가능(NHN Cloud에서 회선 계약 및 개통 진행)|
-| 연결 방식 2 | 호스팅 연결 - N/W 파트너를 통한 클라우드 플랫폼 연결 방식<br>- KINX 클라우드 허브(https://www.kinx.net/service/cloudhub/)<br>- LG U+ 클라우드 멀티커넥트(https://www.lguplus.com/biz/all/telecom/idc/cloud-connection-service/B000000036)<br>- 드림라인 클라우드 익스체인지 플랫폼(https://www.dreamline.co.kr/service/cloud_overview.php)|
+| 연결 방식 2 | 호스팅 연결 - N/W 파트너를 통한 클라우드 플랫폼 연결 방식<br>- [KINX 클라우드 허브](https://www.kinx.net/service/cloudhub/)<br>- [LG U+ 클라우드 멀티커넥트](https://www.lguplus.com/biz/all/telecom/idc/cloud-connection-service/B000000036)<br>- [드림라인 클라우드 익스체인지 플랫폼](https://www.dreamline.co.kr/service/cloud_overview.php)|
 
 > [참고] *전용 연결은 NHN Cloud 위치 내 Direct connect 네트워크 포트 및 사용자의 네트워크 포트 간 물리적 연결입니다. NHN Cloud에서 고객이 희망하는 회선 사업자의 전용선을 확보하여 제공합니다.
 
