@@ -21,7 +21,7 @@ The cloud configuration environment supported by Direct Connect is as follows.
 | Line type | Ethernet method |
 | Communication method | L2 (Vlan), L3 (BGP, Static, IPsec) |
 | Connection method 1 | Dedicated connection - Dedicated line connection through mobile carriers<br>- Choose from KT, LG U+, SK Broadband, Dreamline, Sejong Telecom (line contract and connection by NHN Cloud) |
-| Connection method 2 | Hosted connection- Cloud platform connection method through N/W partners<br>- KINX Cloud Hub (https://www.kinx.net/service/cloudhub/)<br>- LG U+ Cloud Multi-Connect (https://www.lguplus .com/biz/all/telecom/idc/cloud-connection-service/B000000036)<br>- Dreamline Cloud Exchange Platform (https://www.dreamline.co.kr/service/cloud_overview.php)
+| Connection method 2 | Hosted connection- Cloud platform connection method through N/W partners<br>- [KINX Cloud Hub] (https://www.kinx.net/service/cloudhub/)<br>- [LG U+ Cloud Multi-Connect] (https://www.lguplus .com/biz/all/telecom/idc/cloud-connection-service/B000000036)<br>- [Dreamline Cloud Exchange Platform] (https://www.dreamline.co.kr/service/cloud_overview.php)
 
 > [Note] *Dedicated connection is a physical connection between the Direct Connect network port within the NHN Cloud location and a user’s network port. NHN Cloud secures and provides a dedicated line from the line provider of your choice.
 
