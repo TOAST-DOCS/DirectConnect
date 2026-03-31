@@ -4,7 +4,6 @@ Direct Connect serves as a point of contact that connects NHN Cloud’s IaaS res
 
 ## Main Features
 Direct Connect provides various features as follows.
-> [Note] This service is currently only available in the Korea (Pangyo) and Korea (Pyeongchon) regions, and will be supported by other regions gradually.
 * Various speeds: Provides bandwidths ranging from a minimum of 10Mbps to 10Gbps.
 * Redundancy support: Supports redundancy of a point of contact for a dedicated line.
 * Excellent security: Provides excellent security at the same level with the relevant data center, when connecting to a dedicated line through various security certifications and technologies achieved by NHN Cloud.
