@@ -10,7 +10,6 @@ This guide describes how to use the Direct Connect service from the console.
 2.	Click **Apply** to display the apply for service screen.
 3.	Enter the following information.
     * Contact information (name, phone number)
-    * Region locations (Korea (Pangyo), Korea (Pyeongchon))
     * Port speed (10 Mbps to 10 Gbps)
     * Port quantity (up to 2ea)
     * Connection method (dedicated connection, hosted connection)
