@@ -1,8 +1,12 @@
-## Network > Direct Connect > 개요
+<!-- pre-align:aligned sig=dffdfa67b73d -->
+
+<a id="network-direct-connect-overview"></a>
+## Network > Direct Connect > 개요 { #network-direct-connect-overview }
 
 Direct Connect 서비스는 NHN Cloud의 IaaS 자원과 외부 네트워크(예. 고객사 온프레미스) 구간을 통신사에서 제공하는 전용 회선으로 연결하기 위한 접점입니다. 전용 회선을 이용하면 보다 안정적인 속도를 유지하고 외부 보안에도 안전한 통신을 이용할 수 있습니다.
 
-## 주요 기능
+<a id="main-features"></a>
+## 주요 기능 { #main-features }
 Direct Connect는 다음과 같은 다양한 기능을 제공합니다.
 * 다양한 속도: 최소 10Mbps부터 최대 10Gbps까지 대역폭을 제공합니다.
 * 이중화 지원: 전용 회선 연결 접점의 이중화를 지원합니다.
@@ -10,7 +14,8 @@ Direct Connect는 다음과 같은 다양한 기능을 제공합니다.
 * 중립적 데이터센터: 고객이 선호하는 통신사 전용 회선 인입이 가능합니다.
 * 다양한 통신 설정: L2, L3 기반 VLAN, BGP 등 다양한 통신 프로토콜을 지원합니다.
 
-## 구성 환경 
+<a id="configuration-environment"></a>
+## 구성 환경 { #configuration-environment }
 Direct Connect가 지원하는 클라우드 구성 환경은 다음과 같습니다.
 
 | 지원 항목 | 사양 |

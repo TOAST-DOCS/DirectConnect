@@ -1,8 +1,12 @@
-## Network > Direct Connect > Overview
+<!-- pre-align:aligned sig=dffdfa67b73d -->
+
+<a id="network-direct-connect-overview"></a>
+## Network > Direct Connect > Overview { #network-direct-connect-overview }
 
 Direct Connect serves as a point of contact that connects NHN Cloud’s IaaS resources and external networks (e.g., on-premises networks of the customer) with a dedicated line provided by mobile carriers. Using a dedicated line offers more reliable speed and secure communication against external security environments.
 
-## Main Features
+<a id="main-features"></a>
+## Main Features { #main-features }
 Direct Connect provides various features as follows.
 * Various speeds: Provides bandwidths ranging from a minimum of 10Mbps to 10Gbps.
 * Redundancy support: Supports redundancy of a point of contact for a dedicated line.
@@ -10,7 +14,8 @@ Direct Connect provides various features as follows.
 * Neutral data center: Allows customers to use a mobile carrier’s line of their choice.
 * Various communication settings: Supports various communication protocols such as L2, L3-based VLAN, and BGP.
 
-## Configuration Environment 
+<a id="configuration-environment"></a>
+## Configuration Environment { #configuration-environment }
 The cloud configuration environment supported by Direct Connect is as follows.
 
 | Category | Specifications |

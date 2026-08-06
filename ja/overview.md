@@ -1,8 +1,12 @@
-## Network > Direct Connect > 概要
+<!-- pre-align:aligned sig=dffdfa67b73d -->
+
+<a id="network-direct-connect-overview"></a>
+## Network > Direct Connect > 概要 { #network-direct-connect-overview }
 
 Direct Connectサービスは、NHN CloudのIaaSリソースと外部ネットワーク(例：顧客社オンプレミス)区間をサービスプロバイダーから提供する専用回線に接続するための接点です。専用回線を利用すると、より安定した速度を維持し、外部セキュリティにも安全な通信を利用できます。
 
-## 主な機能
+<a id="main-features"></a>
+## 主な機能 { #main-features }
 Direct Connectは、次のようなさまざまな機能を提供します。
 * さまざまな速度：最小10Mbpsから最大10Gbpsまでの帯域幅を提供します。
 * 二重化サポート：専用回線接続接点の二重化をサポートします。
@@ -10,7 +14,8 @@ Direct Connectは、次のようなさまざまな機能を提供します。
 * 中立的データセンター：顧客が好むサービスプロバイダー専用回線の引き込みが可能です。
 * さまざまな通信設定：L2、L3ベースVLAN、BGPなど、さまざまな通信プロトコルをサポートします。
 
-## 構成環境 
+<a id="configuration-environment"></a>
+## 構成環境 { #configuration-environment }
 Direct Connectがサポートするクラウド構成環境は次のとおりです。
 
 | サポート項目 | 仕様 |
