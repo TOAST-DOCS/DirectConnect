@@ -1,11 +1,16 @@
-## Network > Direct Connect > コンソール使用ガイド
+<!-- pre-align:aligned sig=6eea0b64cd6a -->
+
+<a id="network-direct-connect-console-user-guide"></a>
+## Network > Direct Connect > コンソール使用ガイド { #network-direct-connect-console-user-guide }
 
 コンソールでDirect Connectサービスを使用する方法を説明します。
 
-## Direct Connect
+<a id="direct-connect"></a>
+## Direct Connect { #direct-connect }
 **Direct Connectを使用して顧客リソースと接続する**
 
-### STEP 1. サービス利用申請
+<a id="step-1-application-for-service-use"></a>
+### STEP 1. サービス利用申請 { #step-1-application-for-service-use }
 1.	Network> Direct Connectに移動します。
 2.	**申請**ボタンをクリックすると利用申請画面が現れます。
 3.	次の情報を入力します。
@@ -19,14 +24,16 @@
 5.	利用申請が完了したら、サービス利用のために担当者が直接個別に連絡いたします。
 6.	使用料金および構成設計を確認した後、STEP 2を進めてください。
 
-### STEP 2. 専用回線の準備
+<a id="step-2-prepare-a-dedicated-line"></a>
+### STEP 2. 専用回線の準備 { #step-2-prepare-a-dedicated-line }
 Direct Connectは、NHN Cloud提携パートナーと協力してデータセンター、オフィスまたはコロケーション(co-location)環境からNHN Cloudの場所まで回線を接続します。専用回線プロバイダーを直接選択するか、NHN Cloudまたは提携パートナーを通じて購入できます。
 1. NHN Cloudまたは提携パートナーを介して接続する時、リクエストしたポートのプロビジョニングが完了したら直接連絡いたします。
 2. 顧客が専用回線プロバイダーを直接選択した場合、回線構成のために回線プロバイダーと協議後に開通を進めます。
 3. 専用回線準備日程を確認します。
    * 専用回線準備期間は回線申請日から約3～4週間かかります。
 
-### STEP 3. 顧客インフラとNHN Cloud接続
+<a id="step-3-connect-customer-infrastructure-with-nhn-cloud"></a>
+### STEP 3. 顧客インフラとNHN Cloud接続 { #step-3-connect-customer-infrastructure-with-nhn-cloud }
 1. 専用回線が準備できたら、ルーター設定を行い顧客インフラとNHN Cloud間の接続を進めます。
 2. ルーターはNHN Cloudルーター設定ガイドを参考にして直接設定するか、パートナーと協業して設定できます。
 3. ルーター設定が完了すると、顧客インフラとNHN Cloud間のDirect Connect接続が完了します。
