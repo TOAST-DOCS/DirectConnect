@@ -20,7 +20,6 @@ The cloud configuration environment supported by Direct Connect is as follows.
 
 | Category | Specifications |
 | --- | --- |
-| Region | Korea (Pangyo), Korea (Pyeongchon) regions |
 | Bandwidth | 10Mbps~10Gbps |
 | Line type | Ethernet method |
 | Communication method | L2 (Vlan), L3 (BGP, Static, IPsec) |
